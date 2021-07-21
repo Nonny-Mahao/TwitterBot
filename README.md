@@ -1,4 +1,4 @@
-# TwitterBot
+# Breast Friends
 
 ![Breast Friends](cancer.jpg "twitter bot")
 
