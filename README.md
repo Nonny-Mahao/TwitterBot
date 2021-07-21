@@ -1,6 +1,6 @@
 # TwitterBot
 
-![Breast Friends](cancer.png "twitter bot")
+![Breast Friends](cancer.jpg "twitter bot")
 
 ## *Project Description* : 
 This is a project about creating a twitter bot that retweets all posts about breast cancer awareness.
